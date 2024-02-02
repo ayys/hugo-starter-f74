@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: randomduck-hugo-starter-f74
+package: randomduck/hugo-starter-f74
